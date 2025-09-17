@@ -25,6 +25,7 @@ Based on concepts from [Daydream Believers](https://daydreambelievers.co.uk), th
   - Generate 3D models using AI-to-3D tools
   - 3D print mascot figures
   - Hand-paint finished models for placement throughout the park
+- **Tool Recommendation**: [Hunyuan3D-2](https://huggingface.co/spaces/tencent/Hunyuan3D-2) - Free tool that transforms images to 3D meshes
 
 ### 2. Motorized Ferris Wheel
 **Status**: Planning
