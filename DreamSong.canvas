@@ -1,4 +1,13 @@
 {
-  "nodes": [],
-  "edges": []
+	"nodes":[
+		{"id":"a5403d24fa1e6928","x":-600,"y":-800,"width":400,"height":300,"type":"file","file":"BolotasFestival/BolotasFestival.png"},
+		{"id":"fa82fa6297fad3b3","x":-550,"y":-280,"width":300,"height":400,"type":"file","file":"MinecraftAnatomy/MinecraftAnatomy.jpeg"},
+		{"id":"495139b84017c61f","x":-40,"y":-680,"width":250,"height":60,"type":"text","text":"first we built a model of a festival"},
+		{"id":"e061f4bdec7f7e40","x":-24,"y":-109,"width":250,"height":60,"type":"text","text":"then we built minecraft figures to learn about anatomy"}
+	],
+	"edges":[
+		{"id":"6ba50437a205be9a","fromNode":"a5403d24fa1e6928","fromSide":"bottom","toNode":"fa82fa6297fad3b3","toSide":"top"},
+		{"id":"b3185aa7ddfb6f72","fromNode":"a5403d24fa1e6928","fromSide":"right","toNode":"495139b84017c61f","toSide":"left","toEnd":"none"},
+		{"id":"aebf249a32919468","fromNode":"fa82fa6297fad3b3","fromSide":"right","toNode":"e061f4bdec7f7e40","toSide":"left","toEnd":"none"}
+	]
 }
